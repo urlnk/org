@@ -1,0 +1,13 @@
+{
+    "name": "urlnk/org",
+    "description": "urlnk.org",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "urlnk\\": "src/"
+        }
+    }
+}
